@@ -1,0 +1,41 @@
+sample;ID;class;SampleType;injectionOrder;batch;Duration;QCIndex
+QC_dil8_01;Dil8;QC Dil;QC Dil;1;b0;;
+QC_dil4_01;Dil4;QC Dil;QC Dil;2;b0;;
+QC_dil2_01;Dil2;QC Dil;QC Dil;3;b0;;
+QC01;QC1;QC;QC;4;b1;QC;QC
+240726NCE_globale_v2_pos_01;1;B1;sample;5;b1;H;
+240726NCE_globale_v2_pos_02;2;B2;sample;6;b1;C1;
+240726NCE_globale_v2_pos_03;3;B3;sample;7;b1;C2;
+240726NCE_globale_v2_pos_04;4;B4;sample;8;b1;T;
+240726NCE_globale_v2_pos_05;5;B5;sample;9;b1;H;
+240726NCE_globale_v2_pos_06;6;B6;sample;10;b1;C1;
+240726NCE_globale_v2_pos_07;7;B7;sample;11;b1;C2;
+240726NCE_globale_v2_pos_08;8;B8;sample;12;b1;C1;
+240726NCE_globale_v2_pos_09;9;B9;sample;13;b1;T;
+240726NCE_globale_v2_pos_10;10;B10;sample;14;b1;C2;
+QC02;QC2;QC;QC;15;b2;QC;QC
+240726NCE_globale_v2_pos_11;11;B11;sample;16;b2;T;
+240726NCE_globale_v2_pos_12;12;B12;sample;17;b2;H;
+240726NCE_globale_v2_pos_13;13;B13;sample;18;b2;T;
+240726NCE_globale_v2_pos_14;14;B14;sample;19;b2;T;
+240726NCE_globale_v2_pos_15;15;B15;sample;20;b2;C2;
+240726NCE_globale_v2_pos_16;16;B16;sample;21;b2;T;
+240726NCE_globale_v2_pos_17;17;B17;sample;22;b2;T;
+240726NCE_globale_v2_pos_18;18;B18;sample;23;b2;H;
+240726NCE_globale_v2_pos_19;19;B19;sample;24;b2;C2;
+240726NCE_globale_v2_pos_20;20;B20;sample;25;b2;C2;
+QC03;QC3;QC;QC;26;b3;QC;QC
+240726NCE_globale_v2_pos_21;21;B21;sample;27;b3;C2;
+240726NCE_globale_v2_pos_22;22;B22;sample;28;b3;C2;
+240726NCE_globale_v2_pos_23;23;B23;sample;29;b3;T;
+240726NCE_globale_v2_pos_24;24;B24;sample;30;b3;C2;
+240726NCE_globale_v2_pos_25;25;B25;sample;31;b3;C1;
+240726NCE_globale_v2_pos_26;26;B26;sample;32;b3;T;
+240726NCE_globale_v2_pos_27;27;B27;sample;33;b3;T;
+240726NCE_globale_v2_pos_28;28;B28;sample;34;b3;C2;
+240726NCE_globale_v2_pos_29;29;B29;sample;35;b3;C1;
+240726NCE_globale_v2_pos_30;30;B30;sample;36;b3;H;
+QC04;QC4;QC;QC;37;b4;QC;QC
+240726NCE_globale_v2_pos_31;ISTD;ISTD;standard;38;b0;;
+240726NCE_globale_v2_pos_32;BLC;BLC;blank;39;b5;;
+QC05;QC5;QC;QC;40;b5;QC;QC
