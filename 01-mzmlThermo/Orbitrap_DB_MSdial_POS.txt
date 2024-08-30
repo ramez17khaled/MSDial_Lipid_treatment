@@ -1,0 +1,4 @@
+Compound Name	m/z	Retention time[min]	adduct
+CE 12:0	586.55576		[M+NH4]+
+LPC O-16:0	482.3605	2.99	[M+H]+
+PC 40:1	844.67996	23.13	[M+H]+
